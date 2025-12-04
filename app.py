@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from processor import *
+from Processor import *
 import logger_setup
 import os
 from time import sleep
